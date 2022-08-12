@@ -5,4 +5,6 @@ Seorang investor dapat membeli saham dan menjualnya nanti. Jika harga saham naik
 
 Pada kesempaatan kali ini saya mencoba untuk mengekstrak data history saham dari tahun ke tahun. perusahaan yang akan saya ekstrak datanya adalah perusahaan tesla yang bergerak di bidang otomotif dan juga GameStop yang bergerak di bidang game. Saya akan mengektrak data saham perusahaan-perusahaan tersebut melalui website yahoo finance dan macrotrends menggunakan liblary yfinance dan BeautifulSoup. Setelah data didapatkan, akan dicoba untuk memvisualisasi data dengan grafik untuk membandingkan keakuratan dari kedua website yang akan dilakukan pengekstrakan data.
 
-Sourcode Webscrapping : https://github.com/ajrielrahayu/WebScraping-Data-Saham-menggunakan-yfinance-dan-BeautifulSoup/blob/main/WebScraping_Data%20Saham_menggunakan%20python.ipynb
+Sourcode Webscrapping : [Web Scrapping saham menggunakan yfinance dan BeautifulSoup](https://github.com/ajrielrahayu/WebScraping-Data-Saham-menggunakan-yfinance-dan-BeautifulSoup/blob/main/WebScraping_Data%20Saham_menggunakan%20python.ipynb) 
+
+
